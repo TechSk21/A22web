@@ -1,0 +1,217 @@
+var data = {
+	webtitle: {
+		l: "A22 - Apps on Google Play",
+		v: "./static/images/title.png"
+	},
+	hlname: {
+		l: "A22",
+		v: "./static/images/logo.png"
+	},
+	LevelInfinite: {
+		l: "Level Infinite",
+		v: "#"
+	},
+	hlGames: {
+		v: "#",
+		l: "Games"
+	},
+	hlApps: {
+		v: "#",
+		l: "Apps"
+	},
+	hlMovies: {
+		v: "#",
+		l: "Movies"
+	},
+	hlBooks: {
+		v: "#",
+		l: "Books"
+	},
+	hlKids: {
+		v: "#",
+		l: "Kids"
+	},
+	star: {
+		l: "4.9"
+	},
+	size: {
+		l: "45.6M reviews"
+	},
+	Downloads: {
+		l: "500M+"
+	},
+	age: {
+		v: "./static/images/unnamed(2).webp",
+		l: "Rated for 18+"
+	},
+	Install: {
+		v: "https://storage.googleapis.com/a22_tong/a22-pro/ap/A22.apk",
+		l: "Install"
+	},
+	Trailer: {
+		l: "Game"
+	},
+	Video: {
+		l: "https://storage.googleapis.com/a22_mpv/a22.png",
+		v: "/a22_mpv/a22.mp4",
+		t:"https://storage.googleapis.com/a22_mpv/a22.mp4"
+	},
+	swiper: [{
+			v: "",
+			l: "./static/images/lunbo0.png"
+		},
+		{
+			// v为空不会跳转
+			v: "",
+			l: "./static/images/lunbo1.png"
+		},
+		{
+			v: "",
+			l: "./static/images/lunbo2.png"
+		},
+		{
+			v: "",
+			l: "./static/images/lunbo3.png"
+		},
+		{
+			v: "",
+			l: "./static/images/lunbo4.png"
+		},
+		{
+			v: "",
+			l: "./static/images/lunbo5.png"
+		}
+	],
+	thisgame: {
+		l: "About this app"
+	},
+	Datasafety: {
+		l: "Join the A22 community today and discover why it’s becoming the go-to platform for gaming in India. Download now and start playing to experience the difference! 🎊"
+	},
+	description: {
+	l:"Welcome to A22, India’s most anticipated gaming platform, now revamped with a brand new look! We’ve listened to our users and brought a host of new features to enhance your gaming experience. With faster transactions and cutting-edge security measures, A22 is designed to ensure seamless and safe gameplay every time you log in."
+	},
+	update:{
+		l:"Mar 10, 2024"
+	},
+	Action: {
+		l: "Action",
+		v: "#"
+	},
+	Shooter: {
+		l: "Shooter",
+		v: "#"
+	},
+	Tacticalshooter: {
+		l: "Tactical shooter",
+		v: "#"
+	},
+	Casual: {
+		l: "Casual",
+		v: "#"
+	},
+	Multiplayer: {
+		l: "Multiplayer",
+		v: "#"
+	},
+	Competitivemultiplayer: {
+		l: "Competitive multiplayer",
+		v: "#"
+	},
+	Realistic: {
+		l: "Realistic",
+		v: "#"
+	},
+	Seedetails: {
+		l: "See details",
+		v: "#"
+	},
+	pinglun:[
+	{
+		name:"Aiza Khan",
+		time:"August 15, 2024",
+		content:"A22 ka naya update zabardast hai! Transactions toh lightning fast ho gaye, aur security bhi top-notch hai. Ab toh daily khelna padega!",
+	    people:"223",
+		src:"./static/images/touxiang1.jpg"
+	},
+	{
+		name:"Aleya Islam ",
+		time:"August 05, 2024",
+		content:"Yeh app next level hai bhai! Interface itna smooth hai aur gaming ka mazaa alag hi hai. Sab log try karo, worth it!",
+	    people:"205",
+		src:"./static/images/touxiang2.jpg"
+	},
+	{
+		name:"Alina Saha",
+		time:"July 30, 2024",
+		content:"Bahut dino se gaming platform dhoondh raha tha, finally A22 mil gaya. Ekdum perfect app hai, sab kuch fast aur safe hai.",
+	    people:"198",
+		src:"./static/images/touxiang3.jpg"
+	},
+	{
+		name:"Alisha Rajput",
+		time:"July 15, 2024",
+		content:"A22 ka interface aur features sab kuch ekdum perfect hai! Transactions instantly ho jaate hain, aur secure bhi hai. Maza aa gaya.",
+	    people:"255",
+		src:"./static/images/touxiang4.jpg"
+	},
+	{
+		name:"Aliya Chana",
+		time:"June 16, 2024",
+		content:"Gaming ke liye best app hai A22! Itni variety of games aur itna smooth experience kahin aur nahi milega. Must download!",
+	    people:"209",
+		src:"./static/images/touxiang5.jpg"
+	},
+	{
+		name:"Aliya Noreen",
+		time:"June 03, 2024",
+		content:"Main A22 pe khelte khelte time ka pata hi nahi chalta, lagta hai shayad ab meri mummy phone ban karwa degi!",
+	    people:"216",
+		src:"./static/images/touxiang6.jpg"
+	},
+	{
+		name:"Anaya Shakeel",
+		time:"May 20, 2024",
+		content:"A22 itna fast hai ki mujhe lagta hai main bhi fast ho gaya hoon. Ab bas mujhe games mein jeetne ki speed chahiye!",
+	    people:"271",
+		src:"./static/images/touxiang7.jpg"
+	},
+	{
+		name:"Anmol Kuri",
+		time:"May 08, 2024",
+		content:"A22 सच में शानदार है। इसकी स्पीड और सिक्योरिटी बहुत बढ़िया है। अब तक का सबसे अच्छा गेमिंग प्लेटफॉर्म है।",
+	    people:"253",
+		src:"./static/images/touxiang8.jpg"
+	},
+	{
+		name:"Ariba Rubab",
+		time:"April 30, 2023",
+		content:"मैंने कई ऐप्स ट्राय किए हैं, लेकिन A22 का अनुभव सबसे बेहतर है। गेम्स की वैरायटी और यूजर फ्रेंडली इंटरफेस बहुत अच्छा है।",
+	    people:"228",
+		src:"./static/images/touxiang9.jpg"
+	},
+	{
+		name:"Dimple Koji",
+		time:"April 12, 2023",
+		content:"A22 में कुछ बग्स हैं, और कभी-कभी गेम्स लोड नहीं होते। उम्मीद है कि अगला अपडेट इसे ठीक कर देगा।",
+	    people:"201",
+		src:"./static/images/touxiang10.jpg"
+	}],
+	whatsnew: {
+		l: "New Themed Mode-Skyhigh Spectacle:Descend onto Nimbus Island, summon the genie in the magic lamp, and hunt for wonderful treasure! Experience all kinds of awesome items and creative gameplay in the new 6th anniversary themed mode!<br>New Home Feature: Build your dream house, visit friends, and play together in Home!<br>New WOW Gameplay: The brand new Enchantopia is now available! Many fun minigames await!<br>Miramar Mega Update: Newly added urban areas, ziplines, and more take matches to the next level!"
+	},
+	MoreGame: [],
+	SimilarGame: [],
+	SimilargamesTitle: {
+		l: "Similar games",
+		v: "#"
+	},
+	MorebyLevelInfinite: {
+		l: "More by Level Infinite",
+		v: "#"
+	},
+	country: {
+		l: "India (English (United States))",
+		v: "./static/images/OIP.jfif"
+	}
+}
